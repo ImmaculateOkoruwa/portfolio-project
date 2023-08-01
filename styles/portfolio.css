@@ -107,6 +107,8 @@ p {
 
 nav {
   padding: 20px 0;
+  color: #f9f7fe;
+  width: 100%;
 }
 nav ul {
   padding: 0;
@@ -118,6 +120,7 @@ nav li {
   list-style: none;
   line-height: 42px;
   margin-left: 15px;
+  color: black;
 }
 
 nav a {
